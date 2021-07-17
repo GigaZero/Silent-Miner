@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\ConsoleApp38\bin\x64\Release\ConsoleApp38.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp38\bin\x64\Release\ConsoleApp38.exe
+C:\Users\Administrator\source\repos\ConsoleApp38\bin\x64\Release\ConsoleApp38.pdb
+C:\Users\Administrator\source\repos\ConsoleApp38\obj\x64\Release\ConsoleApp38.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ConsoleApp38\obj\x64\Release\ConsoleApp38.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ConsoleApp38\obj\x64\Release\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp38\obj\x64\Release\ConsoleApp38.exe
+C:\Users\Administrator\source\repos\ConsoleApp38\obj\x64\Release\ConsoleApp38.pdb
